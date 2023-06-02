@@ -20,8 +20,10 @@ Join me in this endeavor as I delve into the power of data analysis to drive enh
 
 
 # Stages of the process
+
 # Import necessary libraries
-![1](https://github.com/SenseiBassa/Nexux-Capstone-1/assets/98027992/5b2189af-35bd-4b37-85b6-ec09048cf669)
+![Importing Necessary Libararies]("C:\Users\Uncle Baby\Desktop\Gondolin\10Alytics\Capstone project 1\screenshots of project\1.1 Importing necessary libraries.PNG")
+
 
  # 1. Data Cleaning
  ![2](https://github.com/SenseiBassa/Nexux-Capstone-1/assets/98027992/a47f7bab-5d50-44ca-8f25-6dc4a60786cb)
@@ -43,4 +45,17 @@ Join me in this endeavor as I delve into the power of data analysis to drive enh
 ![7](https://github.com/SenseiBassa/Nexux-Capstone-1/assets/98027992/ca5dff5b-5b3c-42f3-8c47-d8f92d1b1de9)
 
 ![8](https://github.com/SenseiBassa/Nexux-Capstone-1/assets/98027992/63a321c3-ee69-4331-92c1-222febef2e8a)
+
+
+# Drawn Insights
+Insights drawn based on the provided narrations observed:
+
+The bank's customer base is primarily composed of adults and old adults, with the aged group having the lowest representation. The largest percentage of customers who did not make a deposit belongs to the adult and old adult age groups. Customers contacted via cellular communication had a higher success rate compared to other contact modes. There is no clear distinction in the distribution of customers contacted through different platforms to determine their influence on deposit behavior. Customers contacted through cellular and telephone communication in the previous campaign have a higher probability of making deposits. Customers contacted via cellular communication exhibited a higher percentage of deposit behavior. A significant portion of the bank's customer base comprises blue-collar workers, followed by management, technicians, and administrative staff. The job categories with the highest default rates are blue-collar, management, technician, and entrepreneur. Entrepreneurs had the highest percentage of defaults, while students had the lowest default rate among all job types. Customers with unknown job types, self-employed individuals, housemaids, and students had a 100% default rate and were given loans. Additionally, over 90% of customers who were given loans did not make deposits. Among customers who did not make a deposit, a majority of them were given housing loans. Conversely, among customers who made a deposit, only a small percentage were given loans. A higher percentage of customers were given loans without making a deposit compared to those who made a deposit and were given loans. From the chart, it can be observed that a small percentage of customers who received housing loans ended up defaulting. Only a small percentage of customers made deposits at the bank. A certain percentage of customers were given both housing and personal loans, while a larger percentage received only housing loans, only personal loans, or no loans at all. A small percentage of customers who did not make a deposit were still given loans. The chart suggests a higher likelihood of default among customers who did not make a deposit. There was a higher number of customers reached out to in the month of May. The boxplot analysis indicates that customers contacted for specific durations have a higher probability of making deposits. The chart shows a difference in dispersion between customers who made deposits and those who did not, with some customers clustered around the mean. On average, customers needed to be contacted more times in the new campaign compared to the previous campaign to make a deposit. The average number of contacts for a successful promotion was found to be lower when the campaign feature had 1.7 contacts. The similarity between the test score and train score suggests no overfitting in the features used in the machine learning model. The confusion matrix of the logistic regression correctly predicted a significant number of customers who did not make deposits, but had some incorrect predictions for customers who made deposits and customers who did not make deposits.
+
+# Recommendations
+
+The bank should consider reducing or stopping loans given to customers who do not make deposits. Bank executives should utilize the procedures used in the previous campaign to increase customer retention and deposits. The bank should focus on reaching out to customers more through cellular and telephone communication.
+
+In point of fact, it will help a great deal if addtional data columns are added. Namely; The date of the last deposit made by the customer, Requirements for loan approval, Types of accounts held by customers, Collateral required for loan approval and Number of times each customer has received and defaulted on loans.
+
 
